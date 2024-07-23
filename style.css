@@ -4,6 +4,12 @@ body {
   display: flex;
 }
 
+.enlace {
+  color: #aaa;
+  margin: 14px;
+}
+
+
 .text-container {
   display: flex;
   flex-direction: column;
